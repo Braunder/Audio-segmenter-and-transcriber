@@ -1,0 +1,11 @@
+torch==2.2.2+cu121
+torchaudio==2.2.2+cu121
+pydub==0.25.1
+numpy==1.26.4
+whisper==1.1.10
+tqdm==4.66.2
+torchvision==0.17.1+cu121
+openai-whisper==20231117
+pytube==15.0.0
+librosa==0.10.1
+soundfile==0.12.1
